@@ -12,10 +12,7 @@ If these plugins or extensions are useful to you, consider supporting ongoing de
 > [!NOTE]
 > If you can’t contribute financially, starring the repos you find interesting is greatly appreciated. ⭐
 
-#### USDC (Arbitrum) address 🪙
+#### USDC (Arbitrum network) address 🪙
 ```text
 0xe36a336fC6cc9Daae657b4A380dA492AB9601e73
 ```
-
-> [!WARNING]
-> USDC contributions must be sent on the **Arbitrum** network only. Sending to a different network may result in lost funds.
