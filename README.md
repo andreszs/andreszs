@@ -1,4 +1,4 @@
-### Support & Maintenance ☕💙
+### Plugin Development ☕💙
 
 If these plugins or extensions are useful to you, consider supporting ongoing development and maintenance. Contributions cover AI tools and resources, enabling faster debugging, testing, and quality-of-life improvements. 🛠️⚡
 
