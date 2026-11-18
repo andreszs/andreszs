@@ -6,12 +6,12 @@
 
 | Project | What it does |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-Updater/main/assets/icon.svg" width="26" alt="CU">&nbsp; **[ComfyUI Updater](https://github.com/andreszs/ComfyUI-Updater)** | Core and frontend updates with compatibility checks and rollback. |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-Lora-Pipeline/main/assets/icon.svg" width="26" alt="LP">&nbsp; **[LoRA Pipeline](https://github.com/andreszs/ComfyUI-Lora-Pipeline)** | Area-based LoRA scheduling and conditioning wrappers. |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-OpenPose-Studio/main/assets/icon.svg" width="26" alt="OP">&nbsp; **[OpenPose Studio](https://github.com/andreszs/ComfyUI-OpenPose-Studio)** | Visual pose editing for OpenPose and ControlNet workflows. |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-Restart-Control/main/assets/icon.svg" width="26" alt="RC">&nbsp; **[Restart Control](https://github.com/andreszs/ComfyUI-Restart-Control)** | Guarded, queue-aware restarts and selective custom-node loading. |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-Styler-Pipeline/main/assets/icon.svg" width="26" alt="SP">&nbsp; **[Styler Pipeline](https://github.com/andreszs/ComfyUI-Styler-Pipeline)** | AI-assisted styles and ControlNet-friendly conditioning. |
-| <img src="https://raw.githubusercontent.com/andreszs/ComfyUI-Ultralytics-Studio/main/assets/icon.svg" width="26" alt="US">&nbsp; **[Ultralytics Studio](https://github.com/andreszs/ComfyUI-Ultralytics-Studio)** | Ultralytics tooling integrated into ComfyUI workflows. |
+| ⬆️ **[ComfyUI Updater](https://github.com/andreszs/ComfyUI-Updater)** | Core and frontend updates with compatibility checks and rollback. |
+| 🧩 **[LoRA Pipeline](https://github.com/andreszs/ComfyUI-Lora-Pipeline)** | Area-based LoRA scheduling and conditioning wrappers. |
+| 🤸 **[OpenPose Studio](https://github.com/andreszs/ComfyUI-OpenPose-Studio)** | Visual pose editing for OpenPose and ControlNet workflows. |
+| 🔄 **[Restart Control](https://github.com/andreszs/ComfyUI-Restart-Control)** | Guarded, queue-aware restarts and selective custom-node loading. |
+| ✨ **[Styler Pipeline](https://github.com/andreszs/ComfyUI-Styler-Pipeline)** | AI-assisted styles and ControlNet-friendly conditioning. |
+| 🤸 **[Ultralytics Studio](https://github.com/andreszs/ComfyUI-Ultralytics-Studio)** | Ultralytics tooling integrated into ComfyUI workflows. |
 
 ## Apache Cordova plugins
 
