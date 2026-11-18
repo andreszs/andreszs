@@ -1,7 +1,5 @@
 # Open-source plugins & developer tools
 
-Projects for **ComfyUI**, **Apache Cordova**, and **Android device workflows**, focused on practical tooling and maintainable integrations.
-
 [ComfyUI plugins](#comfyui-plugins) · [Apache Cordova plugins](#apache-cordova-plugins) · [ADB Device Suite](#adb-device-suite)
 
 ## ComfyUI plugins
