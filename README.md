@@ -17,15 +17,17 @@
 
 | Project | Focus | Platforms |
 | --- | --- | --- |
-| [Biometric Auth](https://github.com/andreszs/cordova-plugin-biometric-auth) | Biometric authentication with optional Android Keyguard. | Android |
-| [Cloudflare Turnstile](https://github.com/andreszs/cordova-plugin-turnstile) | Turnstile verification inside a secured WebView dialog. | Android |
-| [DNI Scanner](https://github.com/andreszs/cordova-plugin-dni-scanner) | Document identity scanning workflows. | Android · iOS |
-| [Google Auth](https://github.com/andreszs/cordova-plugin-google-auth) | Google authentication through Android Credential Manager. | Android |
-| [Google Code Scanner](https://github.com/andreszs/cordova-plugin-google-code-scanner) | Google-powered barcode scanning. | Android |
-| [In-App Updates](https://github.com/andreszs/cordova-plugin-in-app-updates) | Play Store flexible and immediate update flows. | Android |
-| [ML Kit Suite](https://github.com/andreszs/cordova-plugin-mlkit-suite) | Barcode scanning, OCR, face capture, document scanning, image labeling, and segmentation. | Android · iOS |
-| [Play Integrity](https://github.com/andreszs/cordova-plugin-play-integrity) | Google Play Integrity standard requests. | Android |
-| [SMS Retriever](https://github.com/andreszs/cordova-plugin-sms-retriever) | Automatic OTP retrieval without SMS permissions. | Android |
+| [Biometric&nbsp;Auth](https://github.com/andreszs/cordova-plugin-biometric-auth) | Biometric authentication with optional Android Keyguard. | Android |
+| [Cloudflare&nbsp;Turnstile](https://github.com/andreszs/cordova-plugin-turnstile) | Turnstile verification inside a secured WebView dialog. | Android |
+| [DNI&nbsp;Scanner](https://github.com/andreszs/cordova-plugin-dni-scanner) | Document identity scanning workflows. | Android&nbsp;·&nbsp;iOS |
+| [Google&nbsp;Auth](https://github.com/andreszs/cordova-plugin-google-auth) | Google authentication through Android Credential Manager. | Android |
+| [Google&nbsp;Code&nbsp;Scanner](https://github.com/andreszs/cordova-plugin-google-code-scanner) | Google-powered barcode scanning. | Android |
+| [In-App&nbsp;Updates](https://github.com/andreszs/cordova-plugin-in-app-updates) | Play Store flexible and immediate update flows. | Android |
+| [ML&nbsp;Kit&nbsp;Suite](https://github.com/andreszs/cordova-plugin-mlkit-suite) | Barcode scanning, OCR, face capture, document scanning, image labeling, and segmentation. | Android&nbsp;·&nbsp;iOS |
+| [Play&nbsp;Integrity](https://github.com/andreszs/cordova-plugin-play-integrity) | Google Play Integrity standard requests. | Android |
+| [SMS&nbsp;Retriever](https://github.com/andreszs/cordova-plugin-sms-retriever) | Automatic OTP retrieval without SMS permissions. | Android |
+
+[Cordova plugin demos](https://github.com/andreszs/cordova-plugin-demos) — A collection of reproducible, self-contained demo applications for the plugins listed above.
 
 <details>
 <summary><strong>Earlier and specialized Cordova plugins</strong></summary>
