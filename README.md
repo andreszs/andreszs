@@ -1,18 +1,78 @@
-### Plugin Development ☕💙
+# Open-source plugins & developer tools
 
-If these plugins or extensions are useful to you, consider supporting ongoing development and maintenance. Contributions cover AI tools and resources, enabling faster debugging, testing, and quality-of-life improvements. 🛠️⚡
+Projects for **ComfyUI**, **Apache Cordova**, and **Android device workflows**, focused on practical tooling and maintainable integrations.
 
-<p align="left">
-  <a href="https://ko-fi.com/D1D716OLPM" target="_blank" rel="noopener noreferrer"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-SUPPORT-ff4d4d?style=for-the-badge&labelColor=2b2b2b&logo=kofi&logoColor=white"></a>
-  <a href="https://www.paypal.com/ncp/payment/GEEM324PDD9NC" target="_blank" rel="noopener noreferrer"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-DONATE-3b82f6?style=for-the-badge&labelColor=2b2b2b&logo=paypal&logoColor=white"></a>
-  <a href="#usdc-arbitrum" rel="noopener noreferrer"><img alt="USDC (Arbitrum)" src="https://img.shields.io/badge/USDC-ARBITRUM-fbbf24?style=for-the-badge&labelColor=2b2b2b&logo=usdcoin&logoColor=white"></a>
+[ComfyUI plugins](#comfyui-plugins) · [Apache Cordova plugins](#apache-cordova-plugins) · [ADB Device Suite](#adb-device-suite)
+
+## ComfyUI plugins
+
+| Project | What it does |
+| --- | --- |
+| [ComfyUI Updater](https://github.com/andreszs/ComfyUI-Updater) | Core and frontend updates with compatibility checks and rollback. |
+| [LoRA Pipeline](https://github.com/andreszs/ComfyUI-Lora-Pipeline) | Area-based LoRA scheduling and conditioning wrappers. |
+| [OpenPose Studio](https://github.com/andreszs/ComfyUI-OpenPose-Studio) | Visual pose editing for OpenPose and ControlNet workflows. |
+| [Restart Control](https://github.com/andreszs/ComfyUI-Restart-Control) | Guarded, queue-aware restarts and selective custom-node loading. |
+| [Styler Pipeline](https://github.com/andreszs/ComfyUI-Styler-Pipeline) | AI-assisted styles and ControlNet-friendly conditioning. |
+| [Ultralytics Studio](https://github.com/andreszs/ComfyUI-Ultralytics-Studio) | Ultralytics tooling integrated into ComfyUI workflows. |
+
+## Apache Cordova plugins
+
+| Project | Focus | Platforms |
+| --- | --- | --- |
+| [Biometric Auth](https://github.com/andreszs/cordova-plugin-biometric-auth) | Biometric authentication with optional Android Keyguard. | Android |
+| [Cloudflare Turnstile](https://github.com/andreszs/cordova-plugin-turnstile) | Turnstile verification inside a secured WebView dialog. | Android |
+| [DNI Scanner](https://github.com/andreszs/cordova-plugin-dni-scanner) | Document identity scanning workflows. | Android · iOS |
+| [Google Auth](https://github.com/andreszs/cordova-plugin-google-auth) | Google authentication through Android Credential Manager. | Android |
+| [Google Code Scanner](https://github.com/andreszs/cordova-plugin-google-code-scanner) | Google-powered barcode scanning. | Android |
+| [In-App Updates](https://github.com/andreszs/cordova-plugin-in-app-updates) | Play Store flexible and immediate update flows. | Android |
+| [ML Kit Suite](https://github.com/andreszs/cordova-plugin-mlkit-suite) | Barcode scanning, OCR, face capture, document scanning, image labeling, and segmentation. | Android · iOS |
+| [Play Integrity](https://github.com/andreszs/cordova-plugin-play-integrity) | Google Play Integrity standard requests. | Android |
+| [SMS Retriever](https://github.com/andreszs/cordova-plugin-sms-retriever) | Automatic OTP retrieval without SMS permissions. | Android |
+
+<details>
+<summary><strong>Earlier and specialized Cordova plugins</strong></summary>
+
+| Project | Focus |
+| --- | --- |
+| [hCaptcha](https://github.com/andreszs/cordova-plugin-hcaptcha) | hCaptcha integration for Cordova applications. |
+| [reCAPTCHA Enterprise](https://github.com/andreszs/cordova-plugin-recaptcha-enterprise) | reCAPTCHA Enterprise for Android and Web API workflows. |
+| [reCAPTCHA v2](https://github.com/andreszs/cordova-plugin-recaptcha-v2) | SafetyNet reCAPTCHA integration for Android. |
+| [Windows Tiles](https://github.com/andreszs/cordova-plugin-tiles) | Windows Tiles integration for Cordova and UWP. |
+
+</details>
+
+## ADB Device Suite
+
+### Manage Android devices without the terminal
+
+[ADB Device Suite](https://github.com/andreszs/adb-device-suite) is a local-first desktop application for discovering, pairing, connecting, and monitoring Android devices over ADB.
+
+- Pair devices for wireless debugging by QR code or pairing code.
+- Discover wireless devices automatically through mDNS.
+- Switch authorized USB devices to ADB over Wi-Fi.
+- Reconnect saved devices and inspect device, battery, network, and security information.
+
+[View the repository](https://github.com/andreszs/adb-device-suite) · [Get it from Microsoft Store](https://apps.microsoft.com/detail/9NWW56PZ06CP)
+
+---
+
+### Support development
+
+If these projects are useful to you, starring the repositories is greatly appreciated. Optional financial support helps cover development tools and resources.
+
+<p>
+  <a href="https://ko-fi.com/D1D716OLPM"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-Support-ff5e5b?style=flat-square&logo=kofi&logoColor=white"></a>
+  <a href="https://www.paypal.com/ncp/payment/GEEM324PDD9NC"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-Donate-0070ba?style=flat-square&logo=paypal&logoColor=white"></a>
+  <a href="#usdc-arbitrum"><img alt="USDC on Arbitrum" src="https://img.shields.io/badge/USDC-Arbitrum-2775ca?style=flat-square&logo=usdcoin&logoColor=white"></a>
 </p>
 
+<a id="usdc-arbitrum"></a>
 
-> [!NOTE]
-> If you can’t contribute financially, starring the repos you find interesting is greatly appreciated. ⭐
+<details>
+<summary>USDC address on Arbitrum</summary>
 
-#### USDC (Arbitrum network) address 🪙
 ```text
 0xe36a336fC6cc9Daae657b4A380dA492AB9601e73
 ```
+
+</details>
