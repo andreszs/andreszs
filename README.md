@@ -41,16 +41,9 @@
 
 ## ADB Device Suite
 
-### Manage Android devices without the terminal
+[ADB Device Suite](https://github.com/andreszs/adb-device-suite) is a local-first Windows application for discovering, pairing, connecting, and monitoring Android devices over ADB—without the terminal.
 
-[ADB Device Suite](https://github.com/andreszs/adb-device-suite) is a local-first desktop application for discovering, pairing, connecting, and monitoring Android devices over ADB.
-
-- Pair devices for wireless debugging by QR code or pairing code.
-- Discover wireless devices automatically through mDNS.
-- Switch authorized USB devices to ADB over Wi-Fi.
-- Reconnect saved devices and inspect device, battery, network, and security information.
-
-[View the repository](https://github.com/andreszs/adb-device-suite) · [Get it from Microsoft Store](https://apps.microsoft.com/detail/9NWW56PZ06CP)
+<a href="https://apps.microsoft.com/detail/9NWW56PZ06CP?referrer=appbadge&amp;mode=full"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft Store"></a>
 
 ---
 
